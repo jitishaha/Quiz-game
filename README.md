@@ -1,1 +1,1 @@
-# Quiz-game-in-C
+# Quiz-game
